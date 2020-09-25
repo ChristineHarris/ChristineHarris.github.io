@@ -1,5 +1,8 @@
 # [cwh6hu.github.io](https://cwh6hu.github.io/)
-Portfolio
+
+# Data Science Portfolio by Christine Harris
+
+
 
 # Project 1 
 *  Bullet point 1
