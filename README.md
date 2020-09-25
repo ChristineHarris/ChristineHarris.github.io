@@ -1,6 +1,4 @@
-# [cwh6hu.github.io](https://cwh6hu.github.io/)
-
-# Data Science Portfolio by Christine Harris
+# Christine Harris
 
 
 
