@@ -1,7 +1,17 @@
-# Christine Harris
+# About Me
 
+# Projects
 
-
-# Project 1 
+## Project 1
 *  Bullet point 1
 *  Bullet point 2
+
+## Project 2
+*  Bullet point 1
+*  Bullet point 2
+
+## Project 3
+*  Bullet point 1
+*  Bullet point 2
+
+## Project 4
