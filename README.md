@@ -1,3 +1,7 @@
+---
+permalink: /
+---
+
 ## About Me
 
 ## Projects
