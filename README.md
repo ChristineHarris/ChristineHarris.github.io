@@ -1,7 +1,3 @@
----
-permalink: /
----
-
 ## About Me
 XXXXXXXXXXXX
 
