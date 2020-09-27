@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Christine Harris
 description: Data Scientist
+show_downloads: True
 navigation:
   - title: Home
     url: /
