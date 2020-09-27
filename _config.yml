@@ -1,11 +1,13 @@
 theme: jekyll-theme-minimal
+
+# --- Required options --- #
+
+# Name of website
 title: Christine Harris
+
+# Website description
 description: Data Scientist
 
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+# Your name to show in the footer
+author: Christine Harris
 
