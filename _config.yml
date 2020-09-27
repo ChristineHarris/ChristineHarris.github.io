@@ -1,6 +1,8 @@
 # theme: jekyll-theme-minimal
 theme: minimal-mistakes-jekyll
 
+minimal_mistakes_skin: "air"
+
 # --- Required options --- #
 
 # Name of website
