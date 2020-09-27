@@ -1,7 +1,4 @@
-# theme: jekyll-theme-minimal
-theme: minimal-mistakes-jekyll
-
-minimal_mistakes_skin: "air"
+theme: jekyll-theme-minimal
 
 # --- Required options --- #
 
