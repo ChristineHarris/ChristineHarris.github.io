@@ -1,9 +1,8 @@
 theme: jekyll-theme-minimal
-
-# --- Required options --- #
-
-# Name of website
 title: Christine Harris
-
-# Website description
 description: Data Scientist
+navigation:
+  - title: Home
+    url: /
+  - title: Setup
+    url: setup
