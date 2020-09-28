@@ -22,11 +22,13 @@ Project 4
 *  Bullet point 1
 *  Bullet point 2
 
-### Deep Learning
+### Clustering
 
 Project 5
 *  Bullet point 1
 *  Bullet point 2
+
+### Deep Learning
 
 Project 6
 *  Bullet point 1
