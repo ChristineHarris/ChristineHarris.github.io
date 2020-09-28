@@ -6,11 +6,11 @@
 
 [NBA Player Position Classification]()
 
-Traditionally, there are five basketball positions: point guard (PG), shooting guard (SG), small forward (SF), power forward (PF), and center (C). When created, these labels di↵erentiated players roles. Centers, for example, grabbed rebounds and blocked shots. Over time, rule changes and the rise of analytics have allowed the NBA to develop into a high speed game with emphasis on the 3-point shot. The lines dividing positions have become increasingly blurred. These changes have sparked debate about the validity of the five-position system. Some argue that the traditional labels are archaic and should be redefined; others argue that they should be abolished [1][2][3]. In this report, we use classification techniques to weigh in on this debate. Specifically, we investigate how well the five-position system captures playing styles, both historically and today.
+Traditionally, there are five basketball positions: point guard (PG), shooting guard (SG), small forward (SF), power forward (PF), and center (C). When created, these labels differentiated players roles. Centers, for example, grabbed rebounds and blocked shots. Over time, rule changes and the rise of analytics have allowed the NBA to develop into a high speed game with emphasis on the 3-point shot. The lines dividing positions have become increasingly blurred. These changes have sparked debate about the validity of the five-position system. Some argue that the traditional labels are archaic and should be redefined; others argue that they should be abolished. In this report, we use classification techniques to weigh in on this debate. Specifically, we investigate how well the five-position system captures playing styles, both historically and today.
 
-Project 2
-*  Bullet point 1
-*  Bullet point 2
+[Wine Quality Classification from Physicochemical Properties]()
+
+In order to re-examine and build upon previous analyses of wine quality classification, this study will compare the predictive power of six different techniques: Logistic Regression (GLM), Support Vector Machines (SVM), Support Vector Machines with Radial Basis Function (SVM-RBF), Neural Networks (NNet), Neural Networks Average (AvgNN), and Random Forest (RF). These different classification methods will aid in the prediction of wine quality based solely on physicochemical data and therefore conquer the ability to understand human taste.
 
 ### Regression
 
