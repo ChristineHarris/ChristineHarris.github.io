@@ -1,37 +1,34 @@
-## About Me
-XXXXXXXXXXXX
+# Projects
 
-## Projects
-
-## Project 1
+Project 1
 *  Bullet point 1
 *  Bullet point 2
 
-## Project 2
+Project 2
 *  Bullet point 1
 *  Bullet point 2
 
-## Project 3
+Project 3
 *  Bullet point 1
 *  Bullet point 2
 
-## Project 4
+Project 4
 *  Bullet point 1
 *  Bullet point 2
 
-## Project 5
+Project 5
 *  Bullet point 1
 *  Bullet point 2
 
-## Project 6
+Project 6
 *  Bullet point 1
 *  Bullet point 2
 
-## Project 7
+Project 7
 *  Bullet point 1
 *  Bullet point 2
 
-## Project 8
+Project 8
 *  Bullet point 1
 *  Bullet point 2
 
