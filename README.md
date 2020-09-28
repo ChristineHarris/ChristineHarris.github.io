@@ -32,7 +32,7 @@ Project 6
 *  Bullet point 1
 *  Bullet point 2
 
-### Natural Language Processing
+### Distributed Computing
 
 Project 7
 *  Bullet point 1
