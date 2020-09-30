@@ -30,6 +30,8 @@ The draft is arguable the most critical off-season event in the NBA. For small-m
 
 In this report, we propose a parallel version of the K- means clustering algorithm and implement it using Python’s multiprocessing library. We then run a series of simulations to compare the runtime and speedup between the basic K- means clustering algorithm and our parallel version. We also explore the impact of incorporating more CPUs into our parallel algorithm. Our findings confirm what we intuitively thought would happen based on our understanding of parallel computing and the “embarrassingly parallel” nature of the K- means clustering algorithm. For datasets with fewer than 5,000 observations, the basic K- means clustering algorithm outperforms the parallel version. However, as the number of data points increases, our parallel K- means clustering algorithm significantly reduces overall time complexity. Added measures for speedup, scaleup and sizeup provide further evidence that our parallel K- means clustering algorithm is both robust and scalable.
 
+![](/images/Comput_time_28012020.png)
+
 ---
 
 ### Deep Learning
@@ -46,4 +48,4 @@ In the following report, I attempt to predict the outcome of National Basketball
 
 In this report, I show that the BigQuery Storage API and the Spark-BigQuery connector can be used to load and analyze the high volume of shooting data available for NCAA Men's Basketball. By running SQL queries on this dataset, I both quantify and visualize general shooting behaviors in the NCAA, as well as shooting trends that have developed over a five-season period. Additionally, I use non-negative matrix factorization to delve deeper into the underlying structure of NCAA player shooting distributions. By analyzing the resulting spatial basis functions, I can draw conclusions about different shot type preferences in the NCAA. By using non-negative matrix factorization as a clustering technique, I categorize players with similar shooting behaviors. Lastly, applying non-negative matrix factorization over several seasons separately, I visualize how shooting preferences have changed over time. The results of this analysis are useful in understanding how NCAA Men’s Basketball has developed over the past decade. These results could also help teams make optimal lineup selections, ensuring that every player is occupying the area on the court where they prefer to shoot.
 
-![](/images/ncaa_shooting_behaviors.png)
+![](/images/low_dimensional_shots.png)
