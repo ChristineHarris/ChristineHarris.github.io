@@ -16,7 +16,7 @@ In this report, I show that the BigQuery Storage API and the Spark-BigQuery conn
 
 ---
 
-### [Using Neural Networks to Make NBA Game Outcome Predictions]()
+### [Using Neural Networks to Predict NBA Game Outcomes]()
 
 In the following report, I attempt to predict the outcome of National Basketball Association (NBA) games with the use of neural networks. I collected the statistics for NBA games from the 2014-15 season to the 2017-18 season. I performed manual feature engineering on all match-related features to transform them into information that could have been known before each matchup. After performing feature selection and eliminating any highly-correlated features, I used the final dataset to train several different types of neural networks. These include feedforward neural networks (FNNs), radial basis function neural networks (RBFNs), and probabilistic neural networks (PNNs). The best network was only able to correctly predict the winning team 64.28% of the time. The results of this analysis go to show that predicting game outcomes over a number of seasons is a difficult task, as personnel changes each offseason can drastically alter a team's competitive value. As such, the incorporation of player-level (rather than team-level) data in future analyses may lead to significant improvements in model performance.
 
